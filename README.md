@@ -20,3 +20,8 @@ history with binary blobs so I track all static assets here.
 ![etc/polybar_title.png](etc/polybar_title.png)
 ![etc/title.png](etc/title.png)
 ![etc/tmux-status-line.png](etc/tmux-status-line.png)
+
+## tmux-fuzzback
+
+![tmux-fuzzback/preview.gif](tmux-fuzzback/preview.gif)
+
