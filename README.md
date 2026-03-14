@@ -6,7 +6,7 @@ history with binary blobs so I track all static assets here.
 
 ## fif
 
-https://github.com/roosta/fif/blob/master/fif/fif.mp4
+https://github.com/user-attachments/assets/87e5d9b6-68ec-477b-b529-f43533d247d5
 
 ## etc
 
