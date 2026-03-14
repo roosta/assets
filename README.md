@@ -4,6 +4,10 @@ Roosta's assets
 Static asset repository for various projects. I don't like polluting my git
 history with binary blobs so I track all static assets here.
 
+## fif
+
+https://github.com/roosta/fif/blob/master/fif/fif.mp4
+
 ## etc
 
 ![etc/busy2.png](etc/busy2.png)
