@@ -5,8 +5,7 @@ Static asset repository for various projects. I don't like polluting my git
 history with binary blobs so I track all static assets here.
 
 ## fif
-
-https://github.com/user-attachments/assets/87e5d9b6-68ec-477b-b529-f43533d247d5
+<video src="https://github.com/user-attachments/assets/5f3cf557-162a-43c7-abff-dfdd5fae900d" controls width="800"></video>
 
 ## etc
 
