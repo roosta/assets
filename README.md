@@ -32,7 +32,10 @@ history with binary blobs so I track all static assets here.
 
 ![tmux-fuzzback/preview.gif](tmux-fuzzback/preview.gif)
 
+## ritual-firefox-theme
 
+![ritual-firefox-theme/ritual-ff-horizontal.png](ritual-firefox-theme/ritual-ff-horizontal.png)
+![ritual-firefox-theme/ritual-ff-vertical.png](ritual-firefox-theme/ritual-ff-vertical.png)
 
 ----
 Copyright (c) 2020 Daniel Berg (roosta)
