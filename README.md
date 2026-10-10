@@ -7,9 +7,11 @@ history with binary blobs so I track all static assets here.
 ## Dotfiles
 ![dotfiles/ritual_screen.png](dotfiles/ritual_screen.png)
 
-<video src="https://github.com/user-attachments/assets/63304a4e-1961-4533-91ca-aec0c2b92a6f" controls width="800"></video>
+https://github.com/user-attachments/assets/63304a4e-1961-4533-91ca-aec0c2b92a6f
+
 ## fif
-<video src="https://github.com/user-attachments/assets/5f3cf557-162a-43c7-abff-dfdd5fae900d" controls width="800"></video>
+
+https://github.com/user-attachments/assets/5f3cf557-162a-43c7-abff-dfdd5fae900d
 
 ## etc
 
